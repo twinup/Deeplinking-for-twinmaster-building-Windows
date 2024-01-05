@@ -1,5 +1,7 @@
 # Deeplinking-for-twinmaster-building-Windows
 
+Download and install inno setup from. https://jrsoftware.org/isinfo.php
+
 Setup:
 1. Under "Files" section of the code set the file path of the executable and directory to be packaged.
 2. Under "Setup" section, set file paths of the app icon in SetupIconFile variable, licence file path of the app in LicenseFile variable, directory where the installer should be created in OutputDir variable and installer filename in OutputBaseFilename variable
